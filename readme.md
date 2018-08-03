@@ -26,6 +26,8 @@ Project Overview
 + número de características usadas
 + existem características com muitos valores faltando? etc.
 
+---
+
 # Outliers
 
 # Feature Engineer
