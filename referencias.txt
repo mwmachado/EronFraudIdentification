@@ -1,0 +1,14 @@
+References
+
+https://github.com/MwillianM/FlchainExploration
+https://github.com/MwillianM/OpenStreetMapDataWrangling
+https://github.com/udacity/ud120-projects
+https://br.udacity.com/
+https://stackoverflow.com/
+https://pandas.pydata.org/
+http://www.numpy.org/
+http://scikit-learn.org/
+https://stats.stackexchange.com/
+https://olegleyz.github.io/enron_classifier.html
+https://medium.com/@williamkoehrsen/machine-learning-with-python-on-the-enron-dataset-8d71015be26d/
+https://www.kaggle.com/tsilveira/machine-learning-tutorial-enron-e-mails
